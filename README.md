@@ -84,9 +84,5 @@ This project is primarily an **academic thesis** implementation. Contributions f
 * Apna.co Interview Readiness Index (2025).
 * Armbrust, et al. (2020). *Cloud Computing: SaaS Architecture.*
 
----
 
-If you want, I can also **condense this further to make it visually striking and GitHub-friendly** with badges, sections for live demo, screenshots, and a minimal academic tone for CV or portfolio use. This version is fully academic but verbose.
-
-Do you want me to do that?
 
